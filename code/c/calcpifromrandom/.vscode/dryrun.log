@@ -1,0 +1,5 @@
+make main --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/algis/junk/code/c/calcpifromrandom'
+gcc randompi.c -o randompi
+make: Leaving directory '/home/algis/junk/code/c/calcpifromrandom'
+ 

@@ -1,0 +1,14 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/algis/junk/code/c/calcpifromrandom",
+            "binaryPath": "/home/algis/junk/code/c/calcpifromrandom/randmopi",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/home/algis/junk/code/c/calcpifromrandom",
+            "binaryPath": "/home/algis/junk/code/c/calcpifromrandom/randompi",
+            "binaryArgs": []
+        }
+    ]
+}
