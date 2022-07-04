@@ -15,5 +15,6 @@ int main(int argc, char **argv) {
         float rY = ((float)rand())/RAND_MAX;
         printf("%f, %f\n",rX, rY);
     }
+    
     return 0;
 }
