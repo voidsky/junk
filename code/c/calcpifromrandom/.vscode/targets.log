@@ -1,6 +1,4 @@
 make all --print-data-base --no-builtin-variables --no-builtin-rules --question
-make: *** No rule to make target 'all'.  Stop.
-
 # GNU Make 4.2.1
 # Built for x86_64-pc-linux-gnu
 # Copyright (C) 1988-2016 Free Software Foundation, Inc.
@@ -8,7 +6,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Mon Jul  4 15:11:22 2022
+# Make data base, printed on Mon Jul  4 15:46:47 2022
 
 # Variables
 
@@ -55,7 +53,7 @@ PATH = /home/algis/.vscode-server/bin/30d9c6cd9483b2cc586687151bcbcd635f373630/b
 # environment
 VSCODE_LOG_STACK = false
 # environment
-VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-b4909863-fb3f-491b-8a33-a9866ec270d2.sock
+VSCODE_IPC_HOOK_CLI = /tmp/vscode-ipc-4ab0a2d1-ae78-4dcd-b6b7-f74dbe6ff405.sock
 # default
 .FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell archives jobserver output-sync check-symlink load
 # environment
@@ -69,7 +67,7 @@ PWD = /home/algis/junk/code/c/calcpifromrandom
 # default
 .LOADED := 
 # environment
-WSL_INTEROP = /run/WSL/8_interop
+WSL_INTEROP = /run/WSL/24_interop
 # environment
 WT_SESSION = 25e5da0f-6bd1-477d-89b7-6266b9e5f1b9
 # environment
@@ -210,6 +208,8 @@ main:
 # strcache performance: lookups = 17 / hit rate = 29%
 # hash-table stats:
 # Load=12/8192=0%, Rehash=0, Collisions=1/17=6%
-# Finished Make data base on Mon Jul  4 15:11:22 2022
+# Finished Make data base on Mon Jul  4 15:46:47 2022
 
  
+make: *** No rule to make target 'all'.  Stop.
+
